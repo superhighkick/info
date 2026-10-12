@@ -4,4 +4,8 @@
 
 ⚡ [Wire Messenger](https://account.wire.com/user-profile/?id=6d841908-76d0-4791-9c8f-ebfe47cb7e2c)
 
+✖ [SimpleX Messenger](https://smp15.simplex.im/a#lnU6SRDx9c8vbRj9VuQyES2tqshlYA0yezFqxA_b4as)
+
+🐍 [Session Messenger](https://telegra.ph/My-Session-id-08-31)
+
 🔑 [PGP key](https://pastebin.com/raw/7e23XauP)
